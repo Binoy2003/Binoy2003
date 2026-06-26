@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Binoy Sarker
 ![](https://media.licdn.com/dms/image/v2/D5616AQGx4y38lBk2cQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730577794080?e=1751500800&v=beta&t=YT7EzticJ09Cl9W1kzTBXcNnw8u-fSNejBPA0nTymh8)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binoy2003)](https://github.com/Binoy2003/github-readme-stats)
 A undergraduate CS student. I enjoy working with include CSS, JavaScript as well as PHP.
 
 Skills:  HTML / CSS / JS / C / C++ / JAVA
