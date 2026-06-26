@@ -13,7 +13,6 @@ Skills:  HTML / CSS / JS / C / C++ / JAVA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Binoy2003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/binoysarker2003?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/share/1FbLAjdg3M/)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Binoy2003)](https://github.com/Binoy2003/github-readme-stats)
 
-
-
+<img alt="My GitHub Stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Binoy2003&show_icons=true" />
+<img alt="Top Languages" align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binoy2003&layout=compact" />
