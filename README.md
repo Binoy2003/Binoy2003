@@ -1,12 +1,11 @@
 ### Hi there 👋, I'm Binoy Sarker
-![](https://media.licdn.com/dms/image/v2/D5616AQGx4y38lBk2cQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730577794080?e=1751500800&v=beta&t=YT7EzticJ09Cl9W1kzTBXcNnw8u-fSNejBPA0nTymh8)
 
-A undergraduate CS student. I enjoy working with include CSS, JavaScript as well as PHP.
+A undergraduate CS student. I enjoy working with include CSS, JavaScript as well as TypeScript.
 
-Skills:  HTML / CSS / JS / C / C++ / JAVA
+Skills:  C / C++ / HTML / CSS / JS / TypeScript
 
 - 🔭 I’m currently working on Building new Projects 
-- 🌱 I’m currently learning CSS, JavaScript 
+- 🌱 I’m currently learning JavaScript & TypeScript 
 - 🤔 I’m looking for help with CSS 
 - 💬 Ask me about html, CSS, C, C++, Java, JavaScript 
 - 📫 How to reach me: binoysarker2003@gmail.com 
