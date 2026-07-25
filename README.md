@@ -1,71 +1,122 @@
-<h1 align="left">Hi 👋 I'm Binoy</h1>
+<h1 align="center">Hi 👋 I'm Binoy Sarker</h1>
 
-<p align="left">
-A passionate undergraduate CSE student from Bangladesh. I enjoy building modern web interfaces using HTML, CSS, JavaScript, and TypeScript.
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 I’m currently working on **Building New Projects**
-- 🌱 I’m currently learning **JavaScript & TypeScript**
-- 🤔 I’m looking for help with **CSS**
-- 💬 Ask me about **HTML, CSS, C, C++, Java, JavaScript**
-- 📫 Reach me at **binoysarker2003@gmail.com**
-
----
-
-## 🛠️ Skills
-
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Undergraduate CSE Student | Frontend Developer | Future Full Stack Developer
+</h3>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Binoy2003&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binoy2003&layout=compact&theme=dracula" />
+A passionate Computer Science student from Bangladesh 🇧🇩
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 About Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/binoysarker2003/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+- 🔭 Currently working on **Personal Projects**
+- 🌱 Learning **JavaScript, TypeScript & React**
+- 💻 Interested in **Frontend Development**
+- 📚 Currently studying **Bachelor of CSE at UIU**
+- 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java**
+- 📫 Email: **binoysarker2003@gmail.com**
+
+---
+
+# 🛠 Skills
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+<img src="https://skillicons.dev/icons?i=ts"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=figma"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Binoy2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Binoy2003&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 💻 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binoy2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Binoy2003&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binoy2003&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/binoysarker2003/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-<img src="https://skillicons.dev/icons?i=discord" height="45"/>
+<a href="https://www.facebook.com/share/18uPLx9F9Q/?mibextid=wwXIfr">
+<img src="https://skillicons.dev/icons?i=facebook"/>
 </a>
 
-<a href="https://www.facebook.com/share/18uPLx9F9Q/?mibextid=wwXIfr" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="45"/>
+<a href="mailto:binoysarker2003@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Binoy2003&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=Binoy2003&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
 </p>
