@@ -2,28 +2,16 @@ name: GitHub Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-
+    - cron: '0 */24 * * *'
   workflow_dispatch:
 
-permissions:
-  contents: write
-
 jobs:
-  summary:
-
+  build:
     runs-on: ubuntu-latest
 
     steps:
-
-      - name: Generate Summary Cards
-
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-
+      - uses: vn7n24fzkq/github-profile-summary-cards@main
         env:
-
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
         with:
-
           USERNAME: Binoy2003
