@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋 I'm Binoy Sarker</h1>
 
 <h3 align="center">
-Undergraduate CSE Student | Frontend Developer | Future Full Stack Developer
+Frontend Developer | CSE Undergraduate | Bangladesh 🇧🇩
 </h3>
 
 <p align="center">
-A passionate Computer Science student from Bangladesh 🇧🇩
+I love building modern web applications and continuously learning new technologies.
 </p>
 
 ---
@@ -15,13 +15,13 @@ A passionate Computer Science student from Bangladesh 🇧🇩
 - 🔭 Currently working on **Personal Projects**
 - 🌱 Learning **JavaScript, TypeScript & React**
 - 💻 Interested in **Frontend Development**
-- 📚 Currently studying **Bachelor of CSE at UIU**
+- 🎓 Undergraduate CSE Student at UIU
 - 💬 Ask me about **HTML, CSS, JavaScript, C, C++, Java**
-- 📫 Email: **binoysarker2003@gmail.com**
+- 📧 Email: **binoysarker2003@gmail.com**
 
 ---
 
-# 🛠 Skills
+# 🛠️ Skills
 
 <p align="center">
 
@@ -53,43 +53,47 @@ A passionate Computer Science student from Bangladesh 🇧🇩
 
 ---
 
-# 📊 GitHub Statistics
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Binoy2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Binoy2003&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Binoy2003&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💻 Most Used Languages
+# 📊 GitHub Metrics
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binoy2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img src="https://raw.githubusercontent.com/Binoy2003/Binoy2003/main/github-metrics.svg" width="100%"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Profile Summary
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Binoy2003&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Binoy2003&theme=tokyonight"/>
 
 </p>
 
----
+<p align="center">
 
-# 📈 Contribution Graph
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Binoy2003&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Binoy2003&theme=tokyonight"/>
+
+</p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binoy2003&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Binoy2003&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Binoy2003&theme=tokyonight&utcOffset=6"/>
 
 </p>
 
@@ -117,6 +121,6 @@ A passionate Computer Science student from Bangladesh 🇧🇩
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Binoy2003&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Binoy2003&label=Profile+Views&style=for-the-badge"/>
 
 </p>
