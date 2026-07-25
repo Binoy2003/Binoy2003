@@ -9,41 +9,32 @@ Frontend Developer • CSE Undergraduate • Bangladesh 🇧🇩
 </p>
 
 <p align="center">
-
 <a href="https://github.com/Binoy2003">
 <img src="https://komarev.com/ghpvc/?username=Binoy2003&style=for-the-badge&color=blue"/>
-
 </a>
 
 <a href="https://github.com/Binoy2003?tab=followers">
-
 <img src="https://img.shields.io/github/followers/Binoy2003?style=for-the-badge"/>
-
 </a>
 
 <a href="https://github.com/Binoy2003">
-
 <img src="https://img.shields.io/github/stars/Binoy2003?style=for-the-badge"/>
-
 </a>
-
 </p>
 
 ---
 
 # 🚀 About Me
 
-- 🎓 Undergraduate CSE Student at United International University
+- 🎓 Undergraduate CSE Student at **United International University (UIU)**
+- 🌱 Currently Learning **React & TypeScript**
+- 💻 Passionate about **Frontend Development**
+- 🚀 Aspiring **Full Stack Developer**
+- 📚 Always exploring modern web technologies
 
-- 🌱 Currently Learning **React, TypeScript**
+### 💬 Languages & Technologies
 
-- 💻 Interested in Frontend Development
-
-- 🚀 Future Full Stack Developer
-
-- 💬 Ask me about
-
-```
+```text
 HTML
 CSS
 JavaScript
@@ -53,9 +44,9 @@ C++
 Java
 ```
 
-- 📧 Email
+### 📧 Email
 
-```
+```text
 binoysarker2003@gmail.com
 ```
 
@@ -65,35 +56,25 @@ binoysarker2003@gmail.com
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-<img src="https://skillicons.dev/icons?i=ts"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,cpp,java,mysql,git,github,vscode,figma" />
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+# 📈 GitHub Activity
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Binoy2003&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Binoy2003&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Contribution Streak
 
 <p align="center">
 
@@ -103,13 +84,11 @@ binoysarker2003@gmail.com
 
 ---
 
-# 📊 GitHub Metrics
-
-> This section is generated automatically by GitHub Actions.
+# 📅 Contribution Graph
 
 <p align="center">
 
-<img src="./github-metrics.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Binoy2003&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -120,21 +99,15 @@ binoysarker2003@gmail.com
 <p align="center">
 
 <a href="https://www.linkedin.com/in/binoysarker2003/">
-
 <img src="https://skillicons.dev/icons?i=linkedin"/>
-
 </a>
 
 <a href="https://www.facebook.com/share/18uPLx9F9Q/?mibextid=wwXIfr">
-
 <img src="https://skillicons.dev/icons?i=facebook"/>
-
 </a>
 
 <a href="mailto:binoysarker2003@gmail.com">
-
 <img src="https://skillicons.dev/icons?i=gmail"/>
-
 </a>
 
 </p>
