@@ -42,7 +42,7 @@ TypeScript
 C
 C++
 Java
-React
+
 
 ```
 
